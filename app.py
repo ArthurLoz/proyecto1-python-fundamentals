@@ -46,7 +46,7 @@ if pagina == "🏠 Home":
         | **Nombre** | Jimmy Arthur Lopez Ore |
         | **Módulo** | Python Fundamentals – Módulo 1 |
         | **Curso** | Especialización Python for Analytics |
-        | **Año** | 2025 |
+        | **Año** | 2026 |
         """)
     with col2:
         st.markdown("### 📌 Descripción del Proyecto")
